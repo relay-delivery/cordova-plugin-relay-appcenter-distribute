@@ -10,10 +10,3 @@ dependencies {
 	implementation "com.microsoft.appcenter:appcenter-distribute:${appCenterSdkVersion}"
 }
 
-// allprojects {
-// 	repositories {
-// 		google()
-// 		mavenCentral();
-// 		jcenter()
-// 	}
-// }
