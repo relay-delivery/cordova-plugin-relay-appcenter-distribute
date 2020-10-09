@@ -1,0 +1,19 @@
+apply plugin: 'com.android.application'
+
+android {
+	compileSdkVersion 23
+	buildToolsVersion "23.0.2"
+}
+
+dependencies {
+	def appCenterSdkVersion = '3.3.1'
+	implementation "com.microsoft.appcenter:appcenter-distribute:${appCenterSdkVersion}"
+}
+
+// allprojects {
+// 	repositories {
+// 		google()
+// 		mavenCentral();
+// 		jcenter()
+// 	}
+// }
