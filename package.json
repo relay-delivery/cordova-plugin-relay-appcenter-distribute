@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "license": "UNLICENSED",
-  "name": "cordova-plugin-appcenter-distribute",
+  "name": "cordova-plugin-relay-appcenter-distribute",
   "scripts": {
     "test": "echo \"no test specified, but all good\" && exit 0"
   },
