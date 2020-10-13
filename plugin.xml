@@ -37,14 +37,10 @@
 		<header-file src="src/ios/UviCordovaEcho.h" target-dir="UviEchoPlugin"/>
 		<source-file src="src/ios/UviCordovaEcho.m" target-dir="UviEchoPlugin"/>
 
-		<!-- <source-file framework="true" src="src/ios/Vendor/AppCenter.framework" /> -->
-		<!-- <source-file framework="true" src="src/ios/Vendor/AppCenterDistribute.framework" /> -->
 		<framework custom="true" src="src/ios/Vendor/AppCenter.framework" />
 		<framework custom="true" src="src/ios/Vendor/AppCenterDistribute.framework" />
-
 		<resource-file src="src/ios/Vendor/AppCenterDistributeResources.bundle" />
 
-		<!-- <hook type="before_build" src="scripts/ios/before_build.js" /> -->
 	</platform>
 
 
