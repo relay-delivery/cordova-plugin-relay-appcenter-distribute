@@ -34,8 +34,8 @@
 			</feature>
 		</config-file>
 
-		<header-file src="src/ios/UviCordovaEcho.h" target-dir="UviEchoPlugin"/>
-		<source-file src="src/ios/UviCordovaEcho.m" target-dir="UviEchoPlugin"/>
+		<header-file src="src/ios/RelayAppCenterDistribute.h" />
+		<source-file src="src/ios/RelayAppCenterDistribute.m" />
 
 		<framework custom="true" src="src/ios/Vendor/AppCenter.framework" />
 		<framework custom="true" src="src/ios/Vendor/AppCenterDistribute.framework" />

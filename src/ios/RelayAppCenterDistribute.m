@@ -1,6 +1,6 @@
 /********* Echo.m Cordova Plugin Implementation *******/
 
-#import "UviCordovaEcho.h"
+#import "RelayAppCenterDistribute.h"
 #import <Cordova/CDVPlugin.h>
 #import <AppCenter/AppCenter.h>
 #import <AppCenterDistribute/AppCenterDistribute.h>
